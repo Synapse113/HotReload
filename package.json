@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "browser-sync": "^3.0.2"
+  },
+  "name": "hot-reload",
+  "version": "1.0.0",
+  "description": "Auto reloads the browser when a source file changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
